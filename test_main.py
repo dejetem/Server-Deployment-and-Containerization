@@ -1,5 +1,5 @@
 '''
-Tests for jwt flask app.
+Tests for jwt flask app deploy to aws EKS. 
 '''
 import os
 import json
